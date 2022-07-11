@@ -1,0 +1,11 @@
+/* .message {
+    padding: 5% 0;
+    overflow: auto;
+    flex: auto;
+} */
+
+.messages {
+    padding: 5% 0;
+    overflow: auto;
+    flex: auto;
+}
